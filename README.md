@@ -3,7 +3,7 @@
 
 name = "anthony fecarotta" 
 position = "founder & president" 
-companies = ["linehaul.ai", "freight.Cognition"] 
+companies = ["linehaul.ai", "freightCognition"] 
 dog's name = "paul" 
 philosophy = "keep javascript off the server"
 ```
