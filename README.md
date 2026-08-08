@@ -2,8 +2,8 @@
 [profile]  
 
 name = "anthony fecarotta" 
-position = "founder & president" 
-companies = ["linehaul.ai", "freightCognition"] 
+position = "founder & CEO" 
+company = "linehaul.ai" 
 dog's name = "paul" 
 philosophy = "keep javascript off the server"
 ```
